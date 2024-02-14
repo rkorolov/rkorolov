@@ -1,6 +1,15 @@
-### Hi there 👋
+### ˙⊹ ੈ✰[Hey 👋, I'm Ruslana]✰ ੈ⊹˙
+
+```
+const ruslana = {
+  pronouns: "she" | "her,
+  code: [Java, JavaScript, Python, HTML, CSS],
+  tools: [Next.js, TailwindCSS, Node]
+}
+```
 
 <!--
+
 **rkorolov/rkorolov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
